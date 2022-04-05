@@ -458,7 +458,7 @@ namespace PeopleCounterService
 
                 string database = "PeopleCounter";
                 string username = "sa";
-                string password = "cW0Az4c5";
+                string password = "********";
 
                 return DBSQLServerUtils.GetDBConnection(datasource, database, username, password);
             }
