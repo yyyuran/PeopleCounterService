@@ -1,0 +1,399 @@
+﻿Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Restoring event log to previous state for source PeopleCounter.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Restoring event log to previous state for source PeopleCounter.
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Restoring event log to previous state for source PeopleCounter.
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Restoring event log to previous state for source PeopleCounter.
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Restoring event log to previous state for source PeopleCounter.
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Creating EventLog source PeopleCounter in log Application...
+Rolling back assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Restoring event log to previous state for source PeopleCounter.
+Installing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Uninstalling assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Removing EventLog source PeopleCounter.
+Service PeopleCounter is being removed from the system...
+Service PeopleCounter was successfully removed from the system.
+Uninstalling assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Removing EventLog source PeopleCounter.
+Warning: The source PeopleCounter is not registered on the local machine.
+Service PeopleCounter is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
+Installing service PeopleCounter...
+Service PeopleCounter has been successfully installed.
+Creating EventLog source PeopleCounter in log Application...
+Committing assembly 'D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.InstallLog
+   assemblypath = D:\All projects\Proects\Programs\CBuilder\PeopleCounterService\PeopleCounterService\bin\Debug\PeopleCounterService.exe
